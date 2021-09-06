@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Cervantes</h1>
-<h3 align="center">Jr Full Stack Deeveloper</h3>
+<h3 align="center">Jr Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [Room](https://github.com/marioyeahs/Room)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **C, Linux, Shell programming**
+- 💬 Ask me about **C, Linux, Shell programming**, MatLab
 
 - 📫 How to reach me **marioyeahs@gmail.com**
 
